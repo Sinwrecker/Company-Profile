@@ -24,9 +24,9 @@ LABEL   MAINTENER="Dhea Wida Kamilah" \
         NIM="1121130154" \
         KELAS="TI CN P 2021"
         
-LABEL   MAINTENER="change me" \
-        NIM="change me" \
-        KELAS="change me"
+LABEL   MAINTENER="Dummy" \
+        NIM="00000000" \
+        KELAS="unknown"
 
 COPY html /usr/share/nginx/html
 
